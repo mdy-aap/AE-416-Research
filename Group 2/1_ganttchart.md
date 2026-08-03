@@ -16,10 +16,10 @@ gantt
     Test Rig             :milestone,  dev, after des3, 16d
 
     section Testing
-    First Testing        :milestone, dev, after dev, 1d
-    Optimization         :active,    dev, after dev, 10d
-    Final Testing        :milestone, dev, after dev, 0d
+    First Testing        :milestone, dev, 2026-08-03, 1d
+    Optimization         :active,    dev, 2026-08-03, 10d
+    Final Testing        :milestone, dev, 2026-08-03, 0d
 
     section Presentation
-    idk                  :active, group, after dev, 10d
+    idk                  :active, group, 2026-08-24, 0d
 ```
