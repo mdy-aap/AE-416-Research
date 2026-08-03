@@ -7,8 +7,8 @@ gantt
     section Research Paper
     Chapter 1       :done,     des1, 2026-07-03, 2026-07-25
     Chapter 2       :done,     des2, 2026-07-03, 2026-07-25
-    Chapter 3       :active,   des3, 2026-08-03, 10d
-    Chapter 4       :unactive, des4
+    Chapter 3       :crit,   des3, 2026-08-03, 10d
+    Chapter 4       :active, des4
 
     section Development
     Backend Setup         :active,  dev1, 2026-09-10, 10d
