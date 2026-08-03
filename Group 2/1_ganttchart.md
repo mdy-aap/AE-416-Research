@@ -21,5 +21,5 @@ gantt
     Final Testing        :milestone, dev, after dev, 0d
 
     section Presentation
-    idk                  :active, group, 10d
+    idk                  :active, group, after dev, 10d
 ```
