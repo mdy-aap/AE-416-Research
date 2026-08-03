@@ -8,7 +8,7 @@ gantt
     Chapter 1            :done,   des1, 2026-07-03, 2026-07-25
     Chapter 2            :done,   des2, 2026-07-03, 2026-07-25
     Chapter 3            :crit,   des3, 2026-08-03, 10d
-    Chapter 4            :active, des4, 
+    
 
     section Development
     Electronics Testing  :crit,       dev1, 2026-07-20, 3d
