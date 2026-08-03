@@ -21,7 +21,7 @@ gantt
     2.4 Statistical Treatment of Data   :done, c2_4, 2026-07-16, 1d
     2.5 Master Document Format Check     :done, c2_5, 2026-07-17, 1d
     2.6 Defense Deck and Rehearsal       :done, c2_6, 2026-07-18, 2d
-    Title Defense Milestone              :milestone, m_title, 2026-07-25, 0d
+    Defense Milestone              :milestone, m_title, 2026-07-25, 0d
 
     section Phase 1: BEMT and Geometry
     1.1 Propeller Geometric Characterization :active, p1_1, 2026-08-03, 7d
