@@ -11,9 +11,9 @@ gantt
     Chapter 4       :active, des4
 
     section Development
-    Backend Setup         :active,  dev1, 2026-09-10, 10d
-    Frontend Integration  :         dev2, after des3, 8d
-    Database Migration    :crit,    dev3, after dev1, 4d
+    Electronics Testing  :active,  dev1, 2026-09-10, 10d
+    Code                 :crit,    dev3, after dev1, 4d
+    Test Rig             :         dev2, after des3, 8d
 
     section Testing & Deployment
     QA Testing            :         qa1,  after dev2, 5d
