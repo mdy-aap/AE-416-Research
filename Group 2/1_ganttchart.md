@@ -18,5 +18,8 @@ gantt
     section Testing
     First Testing        :milestone, dev,  after dev2, 1d
     Optimization         :  dev, after dev1, 10d
-    Final Deployment     :milestone, dev, after 1, 0d
+    Final Testing       :milestone, dev, after 1, 0d
+
+    section Presentation
+    idk :
 ```
