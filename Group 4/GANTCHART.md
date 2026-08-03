@@ -1,4 +1,4 @@
-mermaid
+```mermaid
 gantt
     title Group 2 BEMT Thrust & Torque Test Stand
     dateFormat  YYYY-MM-DD
@@ -19,3 +19,4 @@ gantt
     First Testing        :milestone, qa1,  after dev2, 5d
     Optimization         :  
     Final Deployment     :milestone, m1, after qa1, 0d
+```
