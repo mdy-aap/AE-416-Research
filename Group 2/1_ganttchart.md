@@ -8,9 +8,10 @@ gantt
     Chapter 1            :done,   des, 2026-07-03, 2026-07-25
     Chapter 2            :done,   des, 2026-07-03, 2026-07-25
     Chapter 3            :crit,   des, 2026-08-03, 10d
-    Chapter 4            :active, des, after des,
+    Chapter 4            :active, des, after des, 0d
 
     section Development
+    Material Ordering    :done,       des, 2026-07-03, 2026-07-30
     Electronics Testing  :crit,       dev, 2026-07-20, 3d
     Code                 :crit,       dev, 2026-07-20, 4d
     Test Rig             :milestone,  dev, after des3, 16d
