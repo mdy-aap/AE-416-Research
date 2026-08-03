@@ -18,7 +18,7 @@ gantt
     section Testing
     First Testing        :milestone, dev, 2026-08-03, 1d
     Optimization         :active,    dev, 2026-08-03, 10d
-    Final Testing        :milestone, dev, 2026-08-03, 0d
+    Final Testing        :milestone, dev, 2026-08-03, 20d
 
     section Presentation
     idk                  :active, group, 2026-08-24, 0d
