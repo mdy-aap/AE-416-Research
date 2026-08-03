@@ -11,12 +11,12 @@ gantt
     Chapter 4            :active, des4
 
     section Development
-    Electronics Testing  :crit,       dev1, 2026-07-20, 3d
-    Code                 :crit,       dev2, 2026-07-20, 4d
+    Electronics Testing  :crit,       dev, 2026-07-20, 3d
+    Code                 :crit,       dev, 2026-07-20, 4d
     Test Rig             :milestone,  dev3, after des3, 16d
 
     section Testing
-    First Testing        :milestone, dev,  after dev2, 5d
+    First Testing        :milestone, dev,  after dev2, 1d
     Optimization         :  dev, after dev1, 10d
-    Final Deployment     :milestone, dev, after qa1, 0d
+    Final Deployment     :milestone, dev, after 1, 0d
 ```
