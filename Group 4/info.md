@@ -2,6 +2,8 @@
 <img width="586" height="559" alt="image" src="https://github.com/user-attachments/assets/a31b3b1c-3da6-4cb0-83f8-cb881fdb9e21" />
 <img width="122" height="539" alt="image" src="https://github.com/user-attachments/assets/601f971f-2865-41d9-88e4-ed5042ca820a" />
 <br>
+<img width="1354" height="630" alt="image" src="https://github.com/user-attachments/assets/62324771-41ac-48f7-8a02-52ba48301356" />
+
 <br>
 <br>
 https://pineda-jm.github.io/GANCAHRT/
