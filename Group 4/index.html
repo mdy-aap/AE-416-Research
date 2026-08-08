@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Research Gantt Chart</title>
+
+    <link rel="stylesheet" href="style.css">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet">
+</head>
+
+<body>
+
+<div class="background"></div>
+
+<header>
+    <div class="brand">
+        <div class="brand-icon">▦</div>
+
+        <div>
+            <h1>RESEARCH GANTT</h1>
+            <p id="chapterTitle">Chapter III — Methodology Revision</p>
+        </div>
+    </div>
+
+    <div class="header-date">
+        <span>PROJECT PERIOD</span>
+        <strong id="projectPeriod">03 AUG — 22 AUG 2026</strong>
+    </div>
+</header>
+
+
+<section class="project-info">
+
+    <div class="project-title">
+        <span>RESEARCH PROJECT</span>
+
+        <h2 id="projectTitle">
+            GPS-Based Hiker Tracking & Monitoring System
+        </h2>
+
+        <p id="projectSubtitle">
+            Using LoRa ESP32 and Meshtastic
+        </p>
+    </div>
+
+    <div class="today-box">
+        <span>CURRENT PROGRESS DATE</span>
+
+        <strong id="currentDate">
+            10 AUG 2026
+        </strong>
+
+        <small>
+            Current methodology revision
+        </small>
+    </div>
+
+</section>
+
+
+<section class="stats">
+
+    <div class="stat-card">
+        <span>COMPLETED</span>
+        <strong id="completedCount">0</strong>
+        <small>Tasks</small>
+    </div>
+
+    <div class="stat-card">
+        <span>IN PROGRESS</span>
+        <strong id="progressCount">0</strong>
+        <small>Tasks</small>
+    </div>
+
+    <div class="stat-card">
+        <span>PARTIAL</span>
+        <strong id="partialCount">0</strong>
+        <small>Tasks</small>
+    </div>
+
+    <div class="stat-card">
+        <span>OVERALL</span>
+        <strong id="overallProgress">0%</strong>
+        <small>Research progress</small>
+    </div>
+
+</section>
+
+
+<div class="legend">
+
+    <div>
+        <span class="legend-color completed"></span>
+        Completed
+    </div>
+
+    <div>
+        <span class="legend-color current"></span>
+        In Progress
+    </div>
+
+    <div>
+        <span class="legend-color partial"></span>
+        Partial Progress
+    </div>
+
+    <div>
+        <span class="legend-color unfinished"></span>
+        Not Started
+    </div>
+
+</div>
+
+
+<section class="gantt-wrapper">
+
+    <div class="gantt">
+
+        <div class="task-column">
+
+            <div class="task-header">
+                METHODOLOGY / CHAPTER III
+            </div>
+
+            <div id="taskColumn"></div>
+
+        </div>
+
+
+        <div class="timeline">
+
+            <div class="dates" id="dates"></div>
+
+            <div class="timeline-grid" id="timelineGrid"></div>
+
+            <div class="bars" id="bars"></div>
+
+        </div>
+
+    </div>
+
+</section>
+
+
+<section class="daily-progress">
+
+    <div class="section-title">
+        <span>DAILY REVISION</span>
+
+        <h2>
+            August 03 — August 22, 2026
+        </h2>
+    </div>
+
+    <div class="daily-list" id="dailyList"></div>
+
+</section>
+
+
+<footer>
+
+    GPS-Based Hiker Tracking & Monitoring System
+
+    <span>•</span>
+
+    Chapter III Methodology
+
+</footer>
+
+
+<script src="script.js"></script>
+
+</body>
+</html>
