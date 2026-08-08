@@ -1,0 +1,154 @@
+{
+    "project": {
+        "title": "GPS-Based Hiker Tracking & Monitoring System",
+        "subtitle": "Using LoRa ESP32 and Meshtastic",
+        "chapter": "Chapter III — Methodology Revision",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-22",
+        "currentDate": "2026-08-10"
+    },
+
+    "tasks": [
+
+        {
+            "date": "2026-08-03",
+            "task": "Review Chapter III requirements and align methodology",
+            "progress": 100,
+            "status": "completed"
+        },
+
+        {
+            "date": "2026-08-04",
+            "task": "Revise Research Design",
+            "progress": 100,
+            "status": "completed"
+        },
+
+        {
+            "date": "2026-08-05",
+            "task": "Revise System Development Approach",
+            "progress": 100,
+            "status": "completed"
+        },
+
+        {
+            "date": "2026-08-06",
+            "task": "Identify hardware and software components",
+            "progress": 100,
+            "status": "completed"
+        },
+
+        {
+            "date": "2026-08-07",
+            "task": "Develop System Architecture / Block Diagram",
+            "progress": 100,
+            "status": "completed"
+        },
+
+        {
+            "date": "2026-08-08",
+            "task": "Revise Research Instrument / Evaluation Criteria",
+            "progress": 100,
+            "status": "completed"
+        },
+
+        {
+            "date": "2026-08-09",
+            "task": "Prepare GPS accuracy testing procedure",
+            "progress": 80,
+            "status": "completed"
+        },
+
+        {
+            "date": "2026-08-10",
+            "task": "Prepare LoRa communication-range testing procedure",
+            "progress": 50,
+            "status": "current"
+        },
+
+        {
+            "date": "2026-08-11",
+            "task": "Prepare offline communication testing using Meshtastic",
+            "progress": 35,
+            "status": "partial"
+        },
+
+        {
+            "date": "2026-08-12",
+            "task": "Develop Functionality testing procedure",
+            "progress": 30,
+            "status": "partial"
+        },
+
+        {
+            "date": "2026-08-13",
+            "task": "Develop Reliability testing procedure",
+            "progress": 25,
+            "status": "partial"
+        },
+
+        {
+            "date": "2026-08-14",
+            "task": "Develop Portability evaluation procedure",
+            "progress": 20,
+            "status": "partial"
+        },
+
+        {
+            "date": "2026-08-15",
+            "task": "Define testing locations and environmental conditions",
+            "progress": 15,
+            "status": "unfinished"
+        },
+
+        {
+            "date": "2026-08-16",
+            "task": "Plan urban, suburban and mountainous testing",
+            "progress": 10,
+            "status": "unfinished"
+        },
+
+        {
+            "date": "2026-08-17",
+            "task": "Revise data-gathering procedure",
+            "progress": 10,
+            "status": "unfinished"
+        },
+
+        {
+            "date": "2026-08-18",
+            "task": "Revise data recording and analysis procedure",
+            "progress": 5,
+            "status": "unfinished"
+        },
+
+        {
+            "date": "2026-08-19",
+            "task": "Align Chapter III procedures with research objectives",
+            "progress": 5,
+            "status": "unfinished"
+        },
+
+        {
+            "date": "2026-08-20",
+            "task": "Check methodology against Scope and Limitations",
+            "progress": 0,
+            "status": "unfinished"
+        },
+
+        {
+            "date": "2026-08-21",
+            "task": "Complete Chapter III proofreading and formatting",
+            "progress": 0,
+            "status": "unfinished"
+        },
+
+        {
+            "date": "2026-08-22",
+            "task": "Final Chapter III revision and submission",
+            "progress": 0,
+            "status": "unfinished"
+        }
+
+    ]
+}
