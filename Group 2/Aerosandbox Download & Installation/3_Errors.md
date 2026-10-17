@@ -1,0 +1,1 @@
+﻿snip a screenshot of the error and paste it here! (for contributors only)  unless solved by an AI of your choice, snip the solution and send it here as well. 
